@@ -1,4 +1,5 @@
-https://jcmedinag.github.io/JCMedinaG.github.io-Web-Project/
+https://jcmedinag.github.io/Web-Project/
+
 
 # Unit 12 | Assignment - Web Visualization Dashboard (Latitude)
 
